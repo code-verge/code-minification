@@ -1,4 +1,6 @@
-# Code Minification
+#############
+Code Minification
+#############
 
 Code minification is the process of reducing the size of a code file by removing unnecessary characters such as spaces, line breaks, and comments without changing the functionality of the code. This process results in a smaller file size, which can improve website loading speed and reduce bandwidth usage.
 
